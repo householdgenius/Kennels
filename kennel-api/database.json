@@ -1,0 +1,68 @@
+{
+    "animals": [
+        { "id": 1, "name": "Doodles", "breed": "Poodle"},
+        { "id": 2, "name": "Decker", "breed": "German Shepherd" },
+        { "id": 3, "name": "Esme", "breed": "Pitbull" }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Hannah Hall",
+            "address": "7002 Chestnut Ct"
+        },
+        {
+            "id": 2,
+            "name": "Emily Reed",
+            "address": "210 Stroud Rd"
+        },
+        {
+            "id": 3,
+            "name": "Abbigail Reed",
+            "address": "Roanoake College Campus"
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Brittany Trenton",
+            "Location": "Nashville North"
+        },
+        {
+            "id": 2,
+            "name": "Alex Robertson",
+            "Location": "Nashville South"
+        },
+        {
+            "id": 3,
+            "name": "Kyle Manning",
+            "Location": "Nashville East"
+        },
+        {
+            "id": 4,
+            "name": "Sierra Cole",
+            "Location": "Nashville West"
+        }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "name": "Nashville North",
+            "address": "8422 Johnson Pike"
+        },
+        {
+            "id": 2,
+            "name": "Nashville South",
+            "address": "209 Emory Drive"
+        },
+        {
+            "id": 3,
+            "name": "Nashville East",
+            "address": "200 Apple Ct."
+        },
+        {
+            "id": 4,
+            "name": "Nashville West",
+            "address": "5009 Orange Street"
+        }
+    ]
+}
