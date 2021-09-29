@@ -25,22 +25,22 @@
         {
             "id": 1,
             "name": "Brittany Trenton",
-            "Location": "Nashville North"
+            "location": "Nashville North"
         },
         {
             "id": 2,
             "name": "Alex Robertson",
-            "Location": "Nashville South"
+            "location": "Nashville South"
         },
         {
             "id": 3,
             "name": "Kyle Manning",
-            "Location": "Nashville East"
+            "location": "Nashville East"
         },
         {
             "id": 4,
             "name": "Sierra Cole",
-            "Location": "Nashville West"
+            "location": "Nashville West"
         }
     ],
     "locations": [
