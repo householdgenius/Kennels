@@ -1,4 +1,5 @@
 import React from "react";
+import { QuoteList } from "../quoteList";
 import { PropsAndState } from './PropsAndState'
 
 
@@ -13,6 +14,6 @@ export const Home = () => (
             <div>500 Puppy Way</div>
         </address>
         <PropsAndState yourName={"Emily"} />
-       
+       <QuoteList />
     </>
 )
