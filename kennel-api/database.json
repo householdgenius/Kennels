@@ -6,7 +6,6 @@
       "breed": "German Shepherd",
       "customerId": 2,
       "locationId": 1
-
     },
     {
       "id": 3,
@@ -22,14 +21,14 @@
       "name": "Emily Reed",
       "address": "210 Stroud Rd",
       "phone": "(931)539-0149",
-      "animalId":2
+      "animalId": 2
     },
     {
       "id": 3,
       "name": "Abbigail Reed",
       "address": "Roanoake College Campus",
       "phone": "(931)539-0157",
-      "animalId":3
+      "animalId": 3
     }
   ],
   "employees": [
@@ -54,20 +53,19 @@
       "id": 1,
       "name": "Nashville North",
       "address": "8422 Johnson Pike",
-      "phone":"(615)489-0754"
-
+      "phone": "(615)489-0754"
     },
     {
       "id": 2,
       "name": "Nashville South",
       "address": "209 Emory Drive",
-      "phone":"(615)421-9034"
+      "phone": "(615)421-9034"
     },
     {
       "id": 3,
       "name": "Nashville East",
       "address": "200 Apple Ct.",
-      "phone":"(615)408-4361"
+      "phone": "(615)408-4361"
     }
   ]
 }
