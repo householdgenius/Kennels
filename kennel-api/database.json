@@ -1,68 +1,73 @@
 {
-    "animals": [
-        { "id": 1, "name": "Doodles", "breed": "Poodle"},
-        { "id": 2, "name": "Decker", "breed": "German Shepherd" },
-        { "id": 3, "name": "Esme", "breed": "Pitbull" }
-    ],
-    "customers": [
-        {
-            "id": 1,
-            "name": "Hannah Hall",
-            "address": "7002 Chestnut Ct"
-        },
-        {
-            "id": 2,
-            "name": "Emily Reed",
-            "address": "210 Stroud Rd"
-        },
-        {
-            "id": 3,
-            "name": "Abbigail Reed",
-            "address": "Roanoake College Campus"
-        }
-    ],
-    "employees": [
-        {
-            "id": 1,
-            "name": "Brittany Trenton",
-            "location": "Nashville North"
-        },
-        {
-            "id": 2,
-            "name": "Alex Robertson",
-            "location": "Nashville South"
-        },
-        {
-            "id": 3,
-            "name": "Kyle Manning",
-            "location": "Nashville East"
-        },
-        {
-            "id": 4,
-            "name": "Sierra Cole",
-            "location": "Nashville West"
-        }
-    ],
-    "locations": [
-        {
-            "id": 1,
-            "name": "Nashville North",
-            "address": "8422 Johnson Pike"
-        },
-        {
-            "id": 2,
-            "name": "Nashville South",
-            "address": "209 Emory Drive"
-        },
-        {
-            "id": 3,
-            "name": "Nashville East",
-            "address": "200 Apple Ct."
-        },
-        {
-            "id": 4,
-            "name": "Nashville West",
-            "address": "5009 Orange Street"
-        }
-    ]
+  "animals": [
+    {
+      "id": 2,
+      "name": "Decker",
+      "breed": "German Shepherd",
+      "customerId": 2,
+      "locationId": 1
+
+    },
+    {
+      "id": 3,
+      "name": "Esme",
+      "breed": "Pitbull",
+      "customerId": 3,
+      "locationId": 2
+    }
+  ],
+  "customers": [
+    {
+      "id": 2,
+      "name": "Emily Reed",
+      "address": "210 Stroud Rd",
+      "phone": "(931)539-0149",
+      "animalId":2
+    },
+    {
+      "id": 3,
+      "name": "Abbigail Reed",
+      "address": "Roanoake College Campus",
+      "phone": "(931)539-0157",
+      "animalId":3
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Brittany Trenton",
+      "location": "Nashville North"
+    },
+    {
+      "id": 2,
+      "name": "Alex Robertson",
+      "location": "Nashville South"
+    },
+    {
+      "id": 3,
+      "name": "Kyle Manning",
+      "location": "Nashville East"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8422 Johnson Pike",
+      "phone":"(615)489-0754"
+
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive",
+      "phone":"(615)421-9034"
+    },
+    {
+      "id": 3,
+      "name": "Nashville East",
+      "address": "200 Apple Ct.",
+      "phone":"(615)408-4361"
+    }
+  ]
 }
