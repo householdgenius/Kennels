@@ -13,6 +13,13 @@
       "breed": "Pitbull",
       "customerId": 3,
       "locationId": 2
+    },
+    {
+      "name": "lulu",
+      "breed": "cat",
+      "locationId": 1,
+      "customerId": 2,
+      "id": 4
     }
   ],
   "customers": [
@@ -46,6 +53,11 @@
       "id": 3,
       "name": "Kyle Manning",
       "location": "Nashville East"
+    },
+    {
+      "name": "Emily Reed",
+      "locationId": 1,
+      "id": 4
     }
   ],
   "locations": [
